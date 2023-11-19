@@ -887,3 +887,4 @@ public class MainToast extends AppCompatActivity {
 
 
 
+<h1 <p align="center"><b>======== Sekian Terima Kasih ==========</b></p></h1>
