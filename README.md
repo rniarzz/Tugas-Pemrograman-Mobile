@@ -871,3 +871,19 @@ public class MainToast extends AppCompatActivity {
 
 ---
 
+### Hasil Output
+
+---
+
+![Screenshot (454)](https://github.com/rniarzz/Tugas-Pemrograman-Mobile/assets/115542704/f4445741-39c4-4dea-9597-508584ec1fc9)
+
+![Screenshot (455)](https://github.com/rniarzz/Tugas-Pemrograman-Mobile/assets/115542704/5cb591a5-7ee1-4d08-a76e-a906631e3fbe)
+
+![Screenshot (459)](https://github.com/rniarzz/Tugas-Pemrograman-Mobile/assets/115542704/d9587f99-9ac2-4e5b-8bfc-d89bb1e85609)
+
+![Screenshot (460)](https://github.com/rniarzz/Tugas-Pemrograman-Mobile/assets/115542704/1ba444b7-12c9-4710-85e5-5e23dbb0898c)
+
+![Screenshot (461)](https://github.com/rniarzz/Tugas-Pemrograman-Mobile/assets/115542704/b0896af4-4d99-471a-8075-eb0ee34f6394)
+
+
+
