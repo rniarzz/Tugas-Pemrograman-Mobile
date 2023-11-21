@@ -30,9 +30,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/ay"
-        android:label="@string/app_name"
-        android:roundIcon="@drawable/ay"
+        android:icon="@drawable/logo"
+        android:label="rniarzz"
+        android:roundIcon="@drawable/logo"
         android:supportsRtl="true"
         android:theme="@style/Theme.HelloToast">
 
@@ -464,7 +464,7 @@ public class MainToast extends AppCompatActivity {
         android:orientation="vertical">
 
         <ImageView
-            android:id="@+id/mdinalayubi_logo_transparant_2"
+            android:id="@+id/logo"
             android:layout_width="350dp"
             android:layout_height="wrap_content"
             android:adjustViewBounds="true"
